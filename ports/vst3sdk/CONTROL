@@ -1,0 +1,7 @@
+Source: vst3sdk
+Version: 3.6.12
+Build-Depends: expat
+Description: VST 3 Plug-In SDK
+
+Feature: tools
+Description: VSTGUI Tools
